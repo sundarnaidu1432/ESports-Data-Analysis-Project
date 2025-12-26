@@ -1,4 +1,4 @@
-# ESports-Data-Analysis-Project
+# ESports Data Analysis Project
 Welcome to **Data Analytics Project** repository! 🚀  
 This project focuses on analyzing ESports data across various countries and regions to understand trends, player distribution, and overall performance.  
 
